@@ -1,0 +1,1 @@
+To test the functionality of the sr.py library, please use the Jupyter Notebook sr_demo.ipynb. The file sr.py is meant to be a module.
